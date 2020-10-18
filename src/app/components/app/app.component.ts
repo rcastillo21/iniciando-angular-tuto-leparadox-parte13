@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'parte13';
+
+  lista = [
+    {id: 1, nombre: 'Pacific Rim', precio: 6.80}
+  ];
 }
